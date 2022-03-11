@@ -30,5 +30,9 @@
 ***
 ## 🖊마크업(HTML5, CSS)
 ***
-## 🖊기타
+## 🖊가이드
+1. [Front-end web developer](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)   
+2. [JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+
+ 
 ***
