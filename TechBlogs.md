@@ -1,0 +1,41 @@
+Tech Bolg List   
+선정 기준 : 꾸준히 Update되고 있는가?
+
+<국외>
+1. [netflix](https://netflixtechblog.com/)   
+2. [Unity](https://blog.unity.com/kr)   
+3. [Meta](https://engineering.fb.com/)   
+4. [Airbnb](https://medium.com/airbnb-engineering)   
+5. [dropbox](https://dropbox.tech/)   
+6. [ebay](https://tech.ebayinc.com/)   
+7. [trivago](https://tech.trivago.com/)   
+8. [linkedin](https://engineering.linkedin.com/blog)   
+9. [twitter](https://blog.twitter.com/engineering/en_us)   
+10. [pinterest](https://medium.com/pinterest-engineering)   
+11. [microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)   
+12. [spotify](https://engineering.atspotify.com/)   
+13. [snapchat](https://eng.snap.com/machine-learning-snap-ad-ranking)   
+
+<국내>
+1. [카카오](https://tech.kakao.com/)   
+2. [우아한형제들](https://woowabros.github.io)   
+3. [네이버d2](https://d2.naver.com/helloworld)   
+4. [라인](https://engineering.linecorp.com/ko/)   
+5. [amazon](https://aws.amazon.com/ko/blogs/korea/)   
+6. [당근마켓](https://medium.com/daangn/machine-learning/home)   
+7. [토스](https://toss.tech/)   
+8. [뱅크샐러드](https://blog.banksalad.com/)   
+9. [직방](https://medium.com/zigbang)   
+10. [다나와](https://danawalab.github.io/)   
+11. [브랜디](http://labs.brandi.co.kr//)   
+12. [리디북스](https://ridicorp.com/story-category/tech-blog/)   
+13. [크몽](https://blog.kmong.com/tech/home)   
+14. [화해](http://blog.hwahae.co.kr/category/all/tech/)   
+15. [마켓컬리](https://helloworld.kurly.com/)   
+16. [NHN](https://meetup.toast.com/)   
+17. [원티드](https://medium.com/wantedjobs)   
+18. [사람인](https://saramin.github.io/)   
+19. [줌](https://zuminternet.github.io/)   
+20. [왓챠](https://medium.com/watcha)   
+21. [강남언니](https://blog.gangnamunni.com/blog/)   
+
