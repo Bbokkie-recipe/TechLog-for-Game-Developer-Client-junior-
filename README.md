@@ -29,7 +29,11 @@
 ***
 ## 🖊Open GL
 ***
-## 🖊디자인패턴
+## 🖊디자인패턴   
+1. 전략패턴   
+  (1)[java 전략패턴](https://victorydntmd.tistory.com/292?category=719467),    
+  (2)[TypeScript 전략패턴](https://rainbowcode.tistory.com/305),   
+  (2)[Unity 전략패턴](https://bbokkie-recipe.github.io/unitydesignpattern/StrategyPatternInUnity/)   
 ***
 ## 🖊네트워크, 서버
 ***
