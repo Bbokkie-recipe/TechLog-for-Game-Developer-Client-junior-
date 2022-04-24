@@ -48,7 +48,8 @@ My TechNote for Skill-Up!
 1. [Front-end web developer](https://developer.mozilla.org/ko/docs/Learn/Front-end_web_developer)   
 2. [JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 3. [React](https://ko.reactjs.org/)   
-4. [Visual Studio 디버거 설명서](https://docs.microsoft.com/ko-kr/visualstudio/debugger/?view=vs-2022)
+4. [Visual Studio 디버거 설명서](https://docs.microsoft.com/ko-kr/visualstudio/debugger/?view=vs-2022)   
+5. [chrome devtools](https://developer.chrome.com/docs/devtools/open/)   
 ***
 ## 🖊etc   
 1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)
