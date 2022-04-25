@@ -50,6 +50,7 @@ My TechNote for Skill-Up!
 3. [React](https://ko.reactjs.org/)   
 4. [Visual Studio 디버거 설명서](https://docs.microsoft.com/ko-kr/visualstudio/debugger/?view=vs-2022)   
 5. [chrome devtools](https://developer.chrome.com/docs/devtools/open/)   
+6. [w3schools](https://www.w3schools.com/howto/howto_js_sidenav.asp)
 ***
 ## 🖊etc   
 1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)
