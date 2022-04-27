@@ -51,6 +51,7 @@ My TechNote for Skill-Up!
 4. [Visual Studio 디버거 설명서](https://docs.microsoft.com/ko-kr/visualstudio/debugger/?view=vs-2022)   
 5. [chrome devtools](https://developer.chrome.com/docs/devtools/open/)   
 6. [w3schools](https://www.w3schools.com/howto/howto_js_sidenav.asp)
+7. [타입스크립트 공식 웹 microsoft/TypeScript-WebSite 한글문서번역](https://typescript-kr.github.io/)   
 ***
 ## 🖊etc   
 1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)
