@@ -34,6 +34,8 @@ My TechNote for Skill-Up!
   (1)[java 전략패턴](https://victorydntmd.tistory.com/292?category=719467),    
   (2)[typescript 전략패턴](https://rainbowcode.tistory.com/308),   
   (2)[Unity 전략패턴](https://bbokkie-recipe.github.io/unitydesignpattern/StrategyPatternInUnity/)   
+2. 팩토리 패턴   
+  (1)[typescript 팩토리패턴](https://rainbowcode.tistory.com/345)   
 ***
 ## 🖊네트워크, 서버
 ***
