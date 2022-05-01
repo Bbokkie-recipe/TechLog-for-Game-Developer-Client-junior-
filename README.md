@@ -54,6 +54,9 @@ My TechNote for Skill-Up!
 5. [chrome devtools](https://developer.chrome.com/docs/devtools/open/)   
 6. [w3schools](https://www.w3schools.com/howto/howto_js_sidenav.asp)
 7. [타입스크립트 공식 웹 microsoft/TypeScript-WebSite 한글문서번역](https://typescript-kr.github.io/)   
+8. [threejs](https://threejs.org/)   
+9. [pixijs](https://pixijs.com/)   
+10. [Opengl](https://www.opengl.org/)   
 ***
 ## 🖊etc   
 1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)
