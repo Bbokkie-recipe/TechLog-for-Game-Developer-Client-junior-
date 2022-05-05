@@ -7,6 +7,7 @@ My TechNote for Skill-Up!
 
 ## 🖊웹상식   
 1. [HTTP 프로토콜이란](https://joshua1988.github.io/web-development/http-part1/)   
+2. [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)   
 ***
 ## 🖊개발상식
 1. class UML 그리기   
