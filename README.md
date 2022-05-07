@@ -60,7 +60,14 @@ My TechNote for Skill-Up!
 10. [Opengl](https://www.opengl.org/)   
 ***
 ## 🖊etc   
-1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)
+1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)   
 
+## 🖊API   
+
+1. 카카오 API 홈페이지 : https://developers.kakao.com
+2. 네이버 API 홈페이지 : https://developers.naver.com/
+3. 구글 API 홈페이지 : https://console.developers.google.com
+4. 페이스북 API 홈페이지 : https://developers.facebook.com/
+5. 공공데이터 포털 : https://www.data.go.kr/
  
 ***
