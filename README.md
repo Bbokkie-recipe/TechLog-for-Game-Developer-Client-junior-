@@ -57,7 +57,11 @@ My TechNote for Skill-Up!
 7. [타입스크립트 공식 웹 microsoft/TypeScript-WebSite 한글문서번역](https://typescript-kr.github.io/)   
 8. [threejs](https://threejs.org/)   
 9. [pixijs](https://pixijs.com/)   
-10. [Opengl](https://www.opengl.org/)   
+10. [Opengl](https://www.opengl.org/)
+11. [노드 입문자를 위한 심플한 사이트](https://nodejs.dev/learn)   
+12. [노드 공식 사이트](https://nodejs.org/en/docs/)   
+13. [threejs](https://threejs.org/docs)      
+14. [pixijs](https://pixijs.io/guides/basics/containers.html)   
 ***
 ## 🖊etc   
 1. [TechBlog](https://github.com/Bbokkie-recipe/TechLog-for-Game-Developer-Client-junior-/blob/main/TechBlogs.md)   
